@@ -6,6 +6,25 @@ Work with Delta Lake and Delta Tables for efficient data storage and processing.
 Implement the Medallion architecture to structure your data pipeline effectively.
 Encounter real-world scenarios such as Dimensional Data Modeling in Azure Databricks and Slowly Changing Dimensions in Databricks.
 
+           +---------------------+
+           |   Azure SQL Database |
+           +---------------------+
+                     |
+        (Extract Data) |
+                     v
+           +-------------------+
+           |  Azure Data Factory|
+           |   (ETL Process)    |
+           +-------------------+
+                     |
+     (Transform Data) | (Load Data)
+                     v
+           +---------------------------+
+           | Azure Data Lake Storage   |
+           |        Gen2                |
+           +---------------------------+
+
+
 Data Architecture (Medallion Architecture)
 Data Ingestion Pipeline Design
 Azure Project Overview
