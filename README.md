@@ -1,5 +1,6 @@
 # End_to_End-Azure-DE-Project | Azure Databricks | Azure Data Factory | Pyspark
-![Uploading Workflow.png…]()
+![Workflow](https://github.com/user-attachments/assets/835aa448-d8a1-44e4-b68b-765f8b561db6)
+
 
 
 An end-to-end Data Engineering project utilizing cutting-edge technologies like Azure Data Factory, Databricks, and PySpark. 
