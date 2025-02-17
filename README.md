@@ -1,4 +1,10 @@
-# End_to_End-Azure-DE-Project
+# End_to_End-Azure-DE-Project | Azure Databricks | Azure Data Factory | Pyspark
+
+An end-to-end Data Engineering project utilizing cutting-edge technologies like Azure Data Factory, Databricks, and PySpark. 
+Covers the Unity Catalog for data governance.
+Work with Delta Lake and Delta Tables for efficient data storage and processing.
+Implement the Medallion architecture to structure your data pipeline effectively.
+Encounter real-world scenarios such as Dimensional Data Modeling in Azure Databricks and Slowly Changing Dimensions in Databricks.
 
 Data Architecture (Medallion Architecture)
 Data Ingestion Pipeline Design
